@@ -179,7 +179,6 @@ function deleteUser(req, res) {
 
 }
 
-
 module.exports = {
 	prueba,
 	getUsers,
@@ -187,5 +186,5 @@ module.exports = {
 	saveUser,
 	updateUser,
 	deleteUser,
-	loginUser
+	loginUser,
 }
